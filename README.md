@@ -1,0 +1,2 @@
+# pactl
+pactl audio control
