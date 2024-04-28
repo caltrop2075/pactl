@@ -1,5 +1,6 @@
 # pactl
-pactl audio control
+
+an easy way to change your Pulse Audio Sound Settings
 
 lspactl.awk
 --------------------------------------------------------------------------------
